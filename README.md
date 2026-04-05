@@ -1,12 +1,26 @@
-# React + Vite
+# 🚀 RoadCoally
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RoadCoally is a modern logistics and delivery platform that connects users with nearby drivers to enable fast, efficient, and cost-effective deliveries.
+This project is built as a clean, scalable frontend application with real user onboarding and authentication.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+👉 https://roadcoally.vercel.app/
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🔐 Google Authentication (Firebase)
+- 📧 Email & Password Signup
+- 🚗 Driver Onboarding (Google Form Integration)
+- ⚡ Smooth UI with modern animations
+- 📱 Responsive design for mobile & desktop
+
+## 🛠 Tech Stack
+
+- React (Vite)
+- Tailwind-style custom CSS
+- Firebase Authentication
+- Vercel (Deployment)
+
+
